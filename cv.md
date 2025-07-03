@@ -1,22 +1,23 @@
 # Violetta Merkul
-===
+
 ## *Contact*
-| Email            | GitHub            |
-|------------------|:-----------------:|
-|violtmer@gmail.com| 4Violetta4        | 
+
+| Email             | GitHub        |
+|-------------------|--------------:|
+|violtmer@gmail.com | 4Violetta4    | 
 
 ## *Me Info*
-===
+
 This is my first time taking a course at RS school. I want to learn and learn new things.
 
 ## *Skills*
-===
-1.HTML
-2.CSS
-3.C#
+
+1. HTML
+2. CSS
+3. C#
 
 ## *Code Examples*
-===
+
 ```
 using System;
 
@@ -31,5 +32,5 @@ class Program{
 ```
 
 ## *Language*
-===
-*English: in the process of studying
+
+-English: in the process of studying
