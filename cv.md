@@ -1,4 +1,5 @@
 # Violetta Merkul
+![photo](photo1.jfif)
 
 ## *Contact*
 
